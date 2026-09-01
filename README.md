@@ -1,297 +1,132 @@
-<<<<<<< HEAD
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Shaurya+%F0%9F%91%8B;CS+Undergrad+%40+SRMIST+KTR;Building+AI%2FML+%2B+Full-Stack+Projects;Currently+grinding+DSA+%F0%9F%A7%A0" alt="Typing SVG" />
 
-
-```
-
-&#x20;  \_\_\_\_\_ \_    \_         \_    \_\_\_\_\_\_\_     \_\_
-
-&#x20; / \_\_\_\_| |  | |  /\\   | |  |\_\_   \_\_|    /\\ 
-
-&#x20;| (\_\_\_ | |\_\_| | /  \\  | |     | |      /  \\ 
-
-&#x20; \\\_\_\_ \\|  \_\_  |/ /\\ \\ | |     | |     / /\\ \\ 
-
-&#x20; \_\_\_\_) | |  | / \_\_\_\_ \\| |\_\_\_\_ | |    / \_\_\_\_ \\ 
-
-&#x20;|\_\_\_\_\_/|\_|  |\_/\_/    \\\_\\\_\_\_\_\_\_||\_|   /\_/    \\\_\\ 
-
-
-
-&#x20;       S I N G H   //  building code that thinks in trades \& trees
-
-```
-
-
-
-\### `console.log("Hi, I'm Shaurya 👋")`
-
-
-
-\*\*CS Undergrad @ SRMIST\*\* \&nbsp;•\&nbsp; \*\*DSA Grinder\*\* \&nbsp;•\&nbsp; \*\*Quant-Curious Full-Stack Dev\*\*
-
-
-
-!\[Profile Views](https://komarev.com/ghpvc/?username=shaurya-s-dev\&color=6366f1\&style=flat-square\&label=Profile+Views)
-
-!\[Streak](https://img.shields.io/badge/Currently-Shipping-6366f1?style=flat-square)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=shaurya-s-dev&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
-
-
-
-\---
-
-
-
-\### 🧭 About Me
-
-
-
-```yaml
-
-name: "Shaurya Singh"
-
-pronouns: "he/him"
-
-role: "CS Undergraduate, SRMIST KTR — 2nd Year / 3rd Semester"
-
-academics: "1st-Year CGPA: 9.74"
-
-focus: \["Data Structures \& Algorithms", "AI/ML", "Full-Stack Web Apps"]
-
-status: "Exploring AI/ML vs full-stack — building in both while I figure out my lane"
-
-philosophy: "Clean, scalable code > clever, unreadable code"
-
-currently\_building: "AI-driven trading signal tools \& fintech dashboards"
-
-```
-
-
-
-\---
-
-
-
-\### 🛠️ Tech Arsenal
-
-
-
-<table>
-
-<tr>
-
-<th>💻 Languages</th>
-
-<th>🧩 Frameworks \& Libraries</th>
-
-<th>⚙️ Tools \& Platforms</th>
-
-</tr>
-
-<tr>
-
-<td>
-
-
-
-!\[Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-!\[C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-!\[C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-
-!\[Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-!\[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-
-
-</td>
-
-<td>
-
-
-
-!\[Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-
-!\[React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-!\[FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-!\[Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge\&logo=threedotjs\&logoColor=white)
-
-!\[Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge\&logo=framer\&logoColor=white)
-
-
-
-</td>
-
-<td>
-
-
-
-!\[AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-
-!\[Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
-
-!\[Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
-
-!\[Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-!\[Azure](https://img.shields.io/badge/Azure\_AI--900-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-
-
-
-</td>
-
-</tr>
-
-</table>
-
-
-
-\---
-
-
-
-\### 📊 GitHub Analytics
-
-
-
-<div align="center">
-
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=shaurya-s-dev\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&count\_private=true\&include\_all\_commits=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-s-dev\&layout=compact\&theme=tokyonight\&hide\_border=true" width="35%" />
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-s-dev\&theme=tokyonight\&hide\_border=true" width="60%" />
-
-
-
-</div>
-
-
-
-<details>
-
-<summary>🏆 Trophy Case (click to expand)</summary>
 
 <br>
 
-<div align="center">
+## ⚡ About
 
-<img src="https://github-profile-trophy.vercel.app/?username=shaurya-s-dev\&theme=tokyonight\&no-frame=true\&row=1\&column=6" />
+> 2nd Year CS Undergrad at **SRMIST KTR** &nbsp;|&nbsp; 3rd Semester &nbsp;|&nbsp; **9.74** CGPA (Year 1)
+> Still deciding between **AI/ML** and **full-stack dev** — so I'm building in both.
+> Deep in **DSA** right now. Clean code, no unnecessary complexity.
 
-</div>
+<br>
 
-</details>
+## 🧠 Featured Work
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
+### 📈 Alphaline
+AI-powered trading signal platform built for the H0: Hack the Zero Stack hackathon.
+- **Stack:** Next.js · FastAPI · XGBoost · DynamoDB · Supabase
+- **Deployed:** Vercel + AWS Elastic Beanstalk
+- Live signal generation with scheduled model runs (APScheduler)
 
-\---
+</td>
+<td width="50%" valign="top">
 
+### 🌌 Zenith
+Space-themed interactive web experience.
+- **Stack:** Next.js · Three.js · Framer Motion
+- Animated canvas components, immersive scroll interactions
 
+</td>
+</tr>
+</table>
 
-\### 🚀 2026 Roadmap — Currently Leveling Up
+<br>
 
+## 🛠️ Stack
 
+<table>
+<tr>
+<th>Languages</th>
+<th>Frameworks</th>
+<th>Tools</th>
+</tr>
+<tr>
+<td>
 
-\- \[ ] 🧠 \*\*Mastering advanced DSA\*\* — graphs, DP, and system-design-adjacent problem patterns
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br>
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)<br>
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)<br>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-\- \[ ] 🤖 \*\*Diving deeper into AI/ML\*\* — figuring out whether ML engineering or full-stack is my long-term lane (currently building in both)
+</td>
+<td>
 
-\- \[ ] 📈 \*\*Scaling Alphaline\*\* — my AI trading-signal platform (Next.js + FastAPI + XGBoost) into a more robust, production-grade tool
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)<br>
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)<br>
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)<br>
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)<br>
+![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 
-\- \[ ] 🏗️ \*\*Going deeper on backend architecture\*\* — FastAPI, AWS Elastic Beanstalk, and DynamoDB at scale
+</td>
+<td>
 
-\- \[ ] 🎓 \*\*Exploring a Data Science minor\*\* to formalize the fintech/ML thread running through my projects
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)<br>
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)<br>
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)<br>
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)<br>
+![Azure](https://img.shields.io/badge/-Azure_AI--900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-\- \[ ] 🛰️ \*\*Shipping one polished full-stack project per quarter\*\* — no more half-finished repos
+</td>
+</tr>
+</table>
 
-\- \[ ] 📚 \*\*Keeping the CGPA streak alive\*\* — 9.74 in year one, aiming to hold the bar
+<br>
 
-
-
-\---
-
-
-
-\### 💬 Daily Dev Quote
-
-
-
-<div align="center">
-
-
-
-!\[Quote](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\### 🌐 Let's Connect
-
-
-
-<div align="center">
-
-
-
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-
-\[!\[GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge\&logo=geeksforgeeks\&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-HANDLE)
-
-\[!\[Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
-
-\[!\[Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge\&logo=devpost\&logoColor=white)](https://devpost.com/YOUR-DEVPOST-HANDLE)
-
-
-
-</div>
-
-
+## 🐍 Contribution Snake
 
 <div align="center">
 
-
-
-\*"Compiling ambition into code, one commit at a time."\*
-
-
+<img src="https://raw.githubusercontent.com/shaurya-s-dev/shaurya-s-dev/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
-=======
-## Hi there 👋
+> Animated snake eating my contribution graph, updated daily via GitHub Actions — replaces the plain contribution grid. **Setup below.**
 
-<!--
-**shaurya-s-dev/shaurya-s-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## 📊 Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
->>>>>>> 50dee7492ba63a29941318283a468adeca1da812
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shaurya-s-dev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-s-dev&layout=compact&theme=radical&hide_border=true" width="36%" />
+
+</div>
+
+<br>
+
+## 🚀 Currently Leveling Up
+
+- 🧠 Advanced DSA — graphs, DP, system-design-adjacent patterns
+- 🤖 Going deeper into AI/ML while still shipping full-stack projects
+- 📈 Scaling **Alphaline** into a production-grade tool
+- 🎓 Considering a Data Science minor
+- 📚 Holding the 9.74 CGPA bar through Sem 3
+
+<br>
+
+## 🌐 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR-GFG-HANDLE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/YOUR-DEVPOST-HANDLE)
+
+</div>
+
+<div align="center">
+<sub>"Compiling ambition into code, one commit at a time."</sub>
+</div>
